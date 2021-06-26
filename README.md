@@ -1,3 +1,3 @@
 # What Is This?
 
-This Is The Storage For My Website.
+This Is The Page Of Redirection For My Website.
